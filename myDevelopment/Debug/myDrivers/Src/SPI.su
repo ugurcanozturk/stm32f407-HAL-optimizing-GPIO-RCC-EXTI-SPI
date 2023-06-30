@@ -1,0 +1,4 @@
+../myDrivers/Src/SPI.c:12:6:SPI_Init	24	static
+../myDrivers/Src/SPI.c:26:6:SPI_PeriphCmd	16	static
+../myDrivers/Src/SPI.c:38:6:SPI_TransmitData	24	static
+../myDrivers/Src/SPI.c:68:18:SPI_GetFlagStatus	16	static
